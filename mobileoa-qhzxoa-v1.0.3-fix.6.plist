@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://112.126.73.50:8100/resources/mobileoa.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://brave-bkq.oss-cn-beijing.aliyuncs.com/mobileoa-qhzxoa-v1.0.3-fix.6.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.gov.cma.mobileoa</string>
+				<key>bundle-version</key>
+				<string>v1.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>移动办公</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
