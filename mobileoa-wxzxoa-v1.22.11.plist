@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://brave-bkq.oss-cn-beijing.aliyuncs.com/mobileoa-wxzxoa-v1.22.11.ipa</string>
+					<string>https://mobileoa.oss-cn-beijing.aliyuncs.com/mobileoa-wxzxoa-v1.22.11.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
